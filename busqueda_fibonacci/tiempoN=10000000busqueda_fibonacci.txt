@@ -1,0 +1,120 @@
+Numero 322486 encontrado
+REAL (Tiempo total)  0.0000219345 s
+user (Tiempo de procesamiento en CPU's) 0.0000420000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   196.0381217395 % 
+
+Numero 14700764 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000240803 s
+user (Tiempo de procesamiento en CPU's) 0.0000410000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   174.4166019800 % 
+
+Numero 3128036 encontrado
+REAL (Tiempo total)  0.0000128746 s
+user (Tiempo de procesamiento en CPU's) 0.0000320000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   256.3185777780 % 
+
+Numero 6337399 encontrado
+REAL (Tiempo total)  0.0000278950 s
+user (Tiempo de procesamiento en CPU's) 0.0000460000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   172.0740102564 % 
+
+Numero 61396 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000240803 s
+user (Tiempo de procesamiento en CPU's) 0.0000420000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   178.5693782182 % 
+
+Numero 10393545 encontrado
+REAL (Tiempo total)  0.0000259876 s
+user (Tiempo de procesamiento en CPU's) 0.0000460000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   180.8553100917 % 
+
+Numero 2147445644 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000231266 s
+user (Tiempo de procesamiento en CPU's) 0.0000410000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   181.6090391751 % 
+
+Numero 1295390003 encontrado
+REAL (Tiempo total)  0.0000140667 s
+user (Tiempo de procesamiento en CPU's) 0.0000320000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   234.5966644070 % 
+
+Numero 450057883 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000238419 s
+user (Tiempo de procesamiento en CPU's) 0.0000410000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   180.3550719998 % 
+
+Numero 187645041 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000221729 s
+user (Tiempo de procesamiento en CPU's) 0.0000420000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   189.4201806446 % 
+
+Numero 1980098116 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000250340 s
+user (Tiempo de procesamiento en CPU's) 0.0000430000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   179.7558857143 % 
+
+Numero 152503 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000119209 s
+user (Tiempo de procesamiento en CPU's) 0.0000300000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   260.0468479998 % 
+
+Numero 5000 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000259876 s
+user (Tiempo de procesamiento en CPU's) 0.0000460000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   180.8553100917 % 
+
+Numero 1493283650 encontrado
+REAL (Tiempo total)  0.0000231266 s
+user (Tiempo de procesamiento en CPU's) 0.0000410000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   181.6090391751 % 
+
+Numero 214826 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000219345 s
+user (Tiempo de procesamiento en CPU's) 0.0000410000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   196.0381217389 % 
+
+Numero 1843349527 encontrado
+REAL (Tiempo total)  0.0000131130 s
+user (Tiempo de procesamiento en CPU's) 0.0000320000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   251.6582400003 % 
+
+Numero 1360839354 no esta prensente en el arreglo
+REAL (Tiempo total)  0.0000159740 s
+user (Tiempo de procesamiento en CPU's) 0.0000320000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   212.8452776121 % 
+
+Numero 2109248666 encontrado
+REAL (Tiempo total)  0.0000200272 s
+user (Tiempo de procesamiento en CPU's) 0.0000370000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   189.7423238099 % 
+
+Numero 2147470852 encontrado
+REAL (Tiempo total)  0.0000109673 s
+user (Tiempo de procesamiento en CPU's) 0.0000290000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   273.5415652179 % 
+
+Numero 0 encontrado
+REAL (Tiempo total)  0.0000221729 s
+user (Tiempo de procesamiento en CPU's) 0.0000410000 s
+sys (Tiempo en acciónes de E/S)  0.000 s
+CPU/Wall   193.9301849461 % 
+
